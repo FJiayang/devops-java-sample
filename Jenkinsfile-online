@@ -18,6 +18,7 @@ pipeline {
         DOCKER_USERNAME = 'fjy8018'
         GITHUB_ACCOUNT = 'FJiayang'
         APP_NAME = 'devops-java-sample'
+        SONAR_CREDENTIAL_ID= 'sonar-token'
     }
 
     stages {
